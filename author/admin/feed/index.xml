@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Static</title>
-	<atom:link href="http://localhost/static/feed/?simply_static_page=11" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; Static</title>
+	<atom:link href="http://localhost/static/author/admin/feed/?simply_static_page=31" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 11 Apr 2024 11:42:08 +0000</lastBuildDate>

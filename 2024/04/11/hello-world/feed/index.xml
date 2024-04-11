@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Static	</title>
-	<atom:link href="http://localhost/static/comments/feed/?simply_static_page=12" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comments on: Hello world!	</title>
+	<atom:link href="http://localhost/static/2024/04/11/hello-world/feed/?simply_static_page=27" rel="self" type="application/rss+xml" />
+	<link>/2024/04/11/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 11 Apr 2024 11:42:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>/2024/04/11/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
